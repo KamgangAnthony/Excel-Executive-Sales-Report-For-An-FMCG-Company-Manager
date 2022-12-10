@@ -32,7 +32,7 @@
 
 <p align="left">
 <p>
-Checking indicators with the following specifications :
+Checking indications against the following requirements :
 
 
 *    Month --January
@@ -56,7 +56,7 @@ Checking indicators with the following specifications :
 <p align="left">
 <p>
 
-Checking indicators with the following specifications :
+Checking indications against the following requirements :
 
 
 *    Month --December
