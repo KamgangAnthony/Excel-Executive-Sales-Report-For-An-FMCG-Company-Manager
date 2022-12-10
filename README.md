@@ -28,67 +28,50 @@
 
 
 
-## Scraping the quotes
+## Usage Example
+
+<p align="left">
+<p>
+Checking indicators with the following specifications :
 
 
-I used an API command to scrape exactly 110 quotes at a time that were no more than 262 words long:
+*    Month --January
 
 
-*    Aim for the moon. You might hit a star if you miss. --Stone, Clement
+*    Brand --Buratino
 
 
-*    We can do anything we want to if we stick to it long enough. --Helaine Keller
+*    Client Type --Grocery
 
 
-*    You know you're in love when you can't fall asleep because reality is finally better than your dreams. --Dr. Seuss
-
-
-*    ...and many others
-
-
-## Classifying the quotations and taking care of the display
-
-
-Getting the quotes, transforming them, and displaying them on the web app:
-
-
-*    Got quotes using requests
-
-
-* Converted them to JSON before converting them to a data frame of quotes and authors
-
-
-* Analyzed the quotes using the SentimentIntensityAnalyzer
-
-
-* Arranged them according to their feelings
-
-
-* Developed the logic to display quotes that are lighter or darker depending on the user's swipe
-
-
-## Page design
-
-
-* Envato Elements is where I got the bottom graphics (paid)
-
-
-* Used the website Canva to create the banner
-
-
-* Handled the HTML and CSS for the quotes
-
-
-* Swiping was made possible through Javascript code
-
-
-<p align="center">
-   https://quotes-web-app.herokuapp.com/
+*    Client --Trader Joe's
 </p>
-<p align="center">
-  <a href="https://quotes-web-app.herokuapp.com/">
-    <img src="picture4.png" alt="Logo" width=200 height=400>
+&nbsp
+&nbsp
+  <a href="https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/image.png">
+    <img src="https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/image.png" alt="Logo">
   </a>
 </p>
 
+<p align="left">
+<p>
+
+Checking indicators with the following specifications :
+
+
+*    Month --December
+
+
+*    Brand --Dundy Max
+
+
+*    Size --2.25 L
+
+</p>
+&nbsp
+&nbsp
+  <a href="https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/Image1.png">
+    <img src="https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/Image1.png" alt="Logo">
+  </a>
+</p>
 
