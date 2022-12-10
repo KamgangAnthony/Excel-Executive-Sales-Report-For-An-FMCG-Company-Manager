@@ -1,17 +1,7 @@
 # Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager
 <p align="center">
   <a href="https://quotes-web-app.herokuapp.com/">
-    <img src="picture1.png" alt="Logo" width=200 height=400>
-  </a>
-  &nbsp
-  &nbsp
-  <a href="https://quotes-web-app.herokuapp.com/">
-    <img src="picture3.png" alt="Logo" width=200 height=400>
-  </a>
-  &nbsp
-  &nbsp
-  <a href="https://quotes-web-app.herokuapp.com/">
-    <img src="picture2.png" alt="Logo" width=200 height=400>
+    <img src="https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/FullDeliveredMarginSalesAndVolumeAnalysis.png" alt="Logo" width=600 height=400>
   </a>
 </p>
 
