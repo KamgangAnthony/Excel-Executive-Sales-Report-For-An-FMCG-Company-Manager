@@ -1,41 +1,31 @@
 # Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager
 <p align="center">
-  <a href="https://quotes-web-app.herokuapp.com/">
-    <img src="https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/FullDeliveredMarginSalesAndVolumeAnalysis.png" alt="Logo" width=600 height=400>
+  <a href="[https://quotes-web-app.herokuapp.com/](https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/FullDeliveredMarginSalesAndVolumeAnalysis.png)">
+    <img src="https://github.com/KamgangAnthony/Excel-Executive-Sales-Report-For-An-FMCG-Company-Manager/blob/main/Photos/FullDeliveredMarginSalesAndVolumeAnalysis.png" alt="Sales-Report-For-An-FMCG-Company-Manager">
   </a>
 </p>
 
 
 # Project Overview
 
-
-* Created a web app that provides quotes from the internet based on your mood
-* It makes use of an API to scrape quotes from the internet
-* The app has 110 quotes at any given time that it uses NLP to categorize
-* Sorted the quotes using VaderSentiment SentimentIntensityAnalyzer, from most pleasant to most unfriendly
-* Used requests to get the quotes from the API
-* On a mobile device, you can swipe through the app!
-* I made a web app using Flask. [Try it!!! It also works well on mobile.](https://quotes-web-app.herokuapp.com/)
-
-
-## Code and Resources Used
+* This report provides managers with information on sales volumes, revenue, and profit margins.
+* It's for Drinko, a firm in the FMCG (fast-moving consumer goods) sector.
+* Which items are the most profitable?
+* Which packages do clients prefer?
+* What is the ideal size that customers like to purchase?
+* It also gives a monthly breakdown by customer, brand, size, and pack.
+* These are the key indicators that the firm must comprehend in order to optimize its product offering and marketing mix.
 
 
-**Python Version:** 3.10.5
+
+## Resources Used
 
 
-**Packages:** pandas, NumPy, sklearn, matplotlib, seaborn, vaderSentiment, requests, nltk
+**Microsoft Excel**
 
 
-**For Web Framework Requirements:**  ```pip install -r requirements.txt```
+**Data From the company**
 
-
-**API:**
-https://github.com/lukePeavey/quotable
-
-
-**Flask Productionization:**
-https://quotes-web-app.herokuapp.com/
 
 
 ## Scraping the quotes
